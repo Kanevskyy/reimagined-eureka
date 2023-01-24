@@ -1,0 +1,15 @@
+C:\Users\satar\Desktop\Phython AI\ping_problem\bin\Debug\net6.0\ping_problem.exe
+C:\Users\satar\Desktop\Phython AI\ping_problem\bin\Debug\net6.0\ping_problem.deps.json
+C:\Users\satar\Desktop\Phython AI\ping_problem\bin\Debug\net6.0\ping_problem.runtimeconfig.json
+C:\Users\satar\Desktop\Phython AI\ping_problem\bin\Debug\net6.0\ping_problem.dll
+C:\Users\satar\Desktop\Phython AI\ping_problem\bin\Debug\net6.0\ping_problem.pdb
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.csproj.AssemblyReference.cache
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.AssemblyInfoInputs.cache
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.AssemblyInfo.cs
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.csproj.CoreCompileInputs.cache
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.dll
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\refint\ping_problem.dll
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.pdb
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ping_problem.genruntimeconfig.cache
+C:\Users\satar\Desktop\Phython AI\ping_problem\obj\Debug\net6.0\ref\ping_problem.dll
